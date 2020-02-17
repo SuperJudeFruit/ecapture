@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ecapture
+Version: 0.1.8
+Summary: Webcams made easy
+Home-page: https://github.com/YFOMNN/ecapture
+Author: Mohammmed Yaseen
+Author-email: hmyaseen05@gmail.com
+License: MIT
+Description: none
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
