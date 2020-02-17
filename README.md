@@ -1,10 +1,12 @@
 # ecapture
-[![Downloads](https://pepy.tech/badge/ecapture)](https://pepy.tech/project/ecapture)    [![Downloads](https://pepy.tech/badge/ecapture/month)](https://pepy.tech/project/ecapture/month)    [![Downloads](https://pepy.tech/badge/ecapture/week)](https://pepy.tech/project/ecapture/week)
+This version is modified to be install on python 2.7.X or 3.X.X
+The current ecapture lib didnt allow to install on 2.7.X
+
 ## Image Capture Demo
 
 First run the following command in a cmd window
 ~~~
-pip install ecapture
+pip install git+https://github.com/SuperJudeFruit/ecapture#egg=ecapture
 ~~~
 
 Then, Create a new python script
