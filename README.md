@@ -6,6 +6,7 @@ The current ecapture lib didnt allow to install on 2.7.X
 
 First run the following command in a cmd window
 ~~~
+pip install pathlib
 pip install git+https://github.com/SuperJudeFruit/ecapture#egg=ecapture
 ~~~
 
